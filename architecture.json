@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_french_urban_realism_class_struggle",
+  "title": "The Oyster and the Slate",
+  "tagline": "In the gutters of glittering Paris, a shucker's hands hold the hinge of a revolution.",
+  "target_words": 70000,
+  "actual_words": 66881,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Invisible Engine of Luxury",
+    "The Bodily Ledger of Labor",
+    "The Geography of Dignity",
+    "The Quiet Accumulation of Rage"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Hinge",
+      "words": 2787
+    },
+    {
+      "ch": 2,
+      "title": "The Chambre de Bonne",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Ledger",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "The Broken Curb",
+      "words": 2790
+    },
+    {
+      "ch": 5,
+      "title": "The Red Coat",
+      "words": 2785
+    },
+    {
+      "ch": 6,
+      "title": "Butter and Stone",
+      "words": 2775
+    },
+    {
+      "ch": 7,
+      "title": "The Sous-Chef's Roll",
+      "words": 2810
+    },
+    {
+      "ch": 8,
+      "title": "Scribe in the Closet",
+      "words": 2760
+    },
+    {
+      "ch": 9,
+      "title": "The Price of Camembert",
+      "words": 2795
+    },
+    {
+      "ch": 10,
+      "title": "Ghost in the Kitchen",
+      "words": 2780
+    },
+    {
+      "ch": 11,
+      "title": "The Rhythm of Coins",
+      "words": 2770
+    },
+    {
+      "ch": 12,
+      "title": "A Different Rain",
+      "words": 2805
+    },
+    {
+      "ch": 13,
+      "title": "The Man for Everything",
+      "words": 2790
+    },
+    {
+      "ch": 14,
+      "title": "The Smell of Fish",
+      "words": 2765
+    },
+    {
+      "ch": 15,
+      "title": "Crossing the Arondissement",
+      "words": 2820
+    },
+    {
+      "ch": 16,
+      "title": "The Professional Smile",
+      "words": 2785
+    },
+    {
+      "ch": 17,
+      "title": "Place de Clichy",
+      "words": 2775
+    },
+    {
+      "ch": 18,
+      "title": "The Slippage",
+      "words": 2795
+    },
+    {
+      "ch": 19,
+      "title": "The Unspoken Ledger",
+      "words": 2810
+    },
+    {
+      "ch": 20,
+      "title": "The Awakening",
+      "words": 2800
+    },
+    {
+      "ch": 21,
+      "title": "The First Crack",
+      "words": 2790
+    },
+    {
+      "ch": 22,
+      "title": "Beyond the Brasserie",
+      "words": 2825
+    },
+    {
+      "ch": 23,
+      "title": "The Cost of Posture",
+      "words": 2780
+    },
+    {
+      "ch": 24,
+      "title": "A New Rhythm",
+      "words": 2840
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character from the service class overhears a conversation that fundamentally alters their perception of their own labor.",
+      "Develop a subplot involving the young woman in the red coat. Who is she, and what invisible struggles does she navigate in her own tier of the city?",
+      "Create a 'ledger' chapter from Malik's perspective. What debts does he owe, what pressures does he bear as the middle-manager of desperation?",
+      "Imagine a pivotal moment where Léo's 'priestly' handwriting becomes a tool for something other than menu specials. What does he write, and for whom?"
+    ],
+    "technical": [
+      "Build an interactive map of Paris that layers the novel's locations with economic data (average rent, cost of a meal, wage of a service worker) to visualize the 'geography of dignity'.",
+      "Create a 'Bodily Ledger' generator that tracks the physical cost of labor (aches, smells, injuries, repetitive strain) against the financial compensation, generating a poetic/clinical report for different service jobs."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Émile Zola",
+      "Honoré de Balzac",
+      "Annie Ernaux",
+      "Georges Perec"
+    ]
+  },
+  "cover_prompt": "A close-up of a worker's hands, one gripping a worn oyster knife, the other holding a freshly shucked oyster, the blade poised at the hinge, with raw, swollen knuckles and grit under the fingernails telling a story of relentless labor, set in a dim, wet Parisian alley behind a grand brasserie, with gleaming cobblestones reflecting the distant golden light from the restaurant's windows and a pile of discarded shells in the shadowy foreground, in the atmospheric style of Gustave Caillebotte's urban realism and the gritty textural detail of Lucian Freud's portraits, book cover framing, centered and intimate composition, dramatic low-angle shot looking up at the hands as if from the gutter, emphasizing their monumental weariness, chiaroscuro lighting with a stark contrast between the cold blue-grey shadows of the alley and the warm, inviting gold spill from the windows, palette of slate grey, oyster shell white, bruised purple, and cadmium yellow accents, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
